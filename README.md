@@ -1,6 +1,22 @@
 # Dr. Collywobbles Computer Literacy Class
 
-## 1 Using the Terminal
+## 1 Topics
+
+* Terminal basics
+* What is a filesystem & how do I use it?
+* What is a computer?
+* History of Computation
+* HTML, CSS, and JavaScript
+* Database basics
+* Google Maps API
+* Sound Generation with JavaScript
+* Building 3D Models
+* Using 3D Models in JavaScript
+* Animation Basics
+* History of Computer Graphics
+* Encryption & Secret Messages
+
+## 2 Using the Terminal
 
 1. Hold down ⌘ and press spacebar (you will often see this kind of combination written as "⌘-spacebar" or "Command-spacebar"); this will bring up [Spotlight](https://support.apple.com/en-us/HT204014).
 2. Type "terminal" and press enter.
